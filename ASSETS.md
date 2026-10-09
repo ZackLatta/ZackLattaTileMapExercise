@@ -1,0 +1,1 @@
+Files map.txt and tileset.png created by Nathan Bean and released into the public domain.
